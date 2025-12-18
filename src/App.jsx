@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { User, Heart, Users, Sparkles, ArrowRight, Activity, Upload, FileText, CheckCircle, Star, Shuffle, Eye, Brain, Lightbulb, X, Link as LinkIcon, ExternalLink, Copy, MessageCircle } from 'lucide-react';
 
